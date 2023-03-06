@@ -1,0 +1,37 @@
+{
+    "LocalizeAppNameOnAndroid": true,
+    "LocalizeAppIconOnAndroid": true,
+    "LocalizeAppNameOniOS": false,
+    "LocalizeAppIconOniOS": false,
+    "LocalizedData": [
+        {
+            "LanguageCode": "EN",
+            "AppName": "Sports Puzzle 2022",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "72884c9594f6e2e4c86fc0028ca0363c",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "LanguageCode": "RU",
+            "AppName": "PM",
+            "AppShortName": "",
+            "AndroidIcon": {
+                "fileID": 2800000,
+                "guid": "ce7821b71f77756479cca470ee7f3080",
+                "type": 3
+            },
+            "iOSIcon": {
+                "instanceID": 0
+            }
+        }
+    ],
+    "DefaultLocalizedData": 1,
+    "AndroidNameResource": "app_name",
+    "AndroidIconResource": "app_icon"
+}
